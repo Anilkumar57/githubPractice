@@ -1,0 +1,4 @@
+public Main{
+public static void main(String arg[]){
+Sytstem.out.println("Pruthvi is good boy");
+}}
